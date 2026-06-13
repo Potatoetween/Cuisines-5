@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(40, 3, 246);
+}
+.Potatoe{
+    padding: 20px;
+    font-size: 15px;
+    border:solid tan;
+    background-color: tan;
+    display: flex;
+    flex-direction:column
+}
